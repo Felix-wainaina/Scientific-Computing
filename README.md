@@ -51,4 +51,7 @@ This repository contains scripts for understanding Python basics, control struct
 - How to work with different Python data types.
 - The use of control structures such as if-else, for loops, and while loops.
 - Writing modular code using functions.
-- Basic GitHub operations like committing and pushing changes.
+- How to use Git commands like git add, git commit, and git push to track and upload files.
+- How to submit a GitHub repository link for assignments.
+- How to create and manage folders in a Git repository.
+- How to write a README.md file to document my projects.
